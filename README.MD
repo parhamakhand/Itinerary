@@ -29,7 +29,7 @@ First, clone the repository to your local machine and install the necessary depe
 
 ```bash
 # Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/parhamakhand/Itinerary
 
 # Navigate into the project directory
 cd itinerary-worker
