@@ -1,0 +1,13 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+
+  "name": "itinerary-worker",
+  "main": "src/index.js",
+  "compatibility_date": "2025-08-08",
+
+  "observability": { "enabled": true },
+
+  "vars": {
+
+  }
+}
